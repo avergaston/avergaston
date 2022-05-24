@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avergaston
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Java, Javascript, PHP, SQL and MySQL
+- 🌱 I’m currently learning Bootstrap, React and PostgreSQL
 - 💞️ I’m looking to collaborate on HTML, CSS and Javascript
 - 📫 How to reach me: gaston0523@gmail.com
 
